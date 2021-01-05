@@ -8,3 +8,9 @@
 use タグの xlink:href 属性に、SVG アイコンのファイルパス#id 属性をセットすることで、外部の SVG ファイルを読み込みます。
 
 **なお、react の場合は、 xlink: href ではなく xlinkHref を利用します。**
+
+## 参考
+
+-[<color> - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/color_value)
+
+-[use - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/ja/docs/Web/SVG/Element/use)
